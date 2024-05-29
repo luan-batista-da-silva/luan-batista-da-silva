@@ -1,6 +1,6 @@
 ## OLÁ! MEU NOME É LUAN BATISTA 
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([luan24158@gmail.com](https://linkedin.com/in/luan-bd-silva/)) 
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-bd-silva/) 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luan_bdsilva/)
 
 
